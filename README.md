@@ -22,7 +22,7 @@ Llamaestro is built on top of Maestro. It provides users the following benefits:
 
 1. Go to the GroqCloud dashboard and create a new API key.
 2. Copy this  Google Colab notebook.
-3. Click the the "Secrets" (key icon) on the left sidebar and click "Add secret".
+3. Click the "Secrets" (key icon) on the left sidebar and click "Add secret".
 4. Enter a name for your secret: "GROQ_API_KEY" and paste your GroqCloud API key as the value.
 5. Click Runtime in the top navigation bar and click "Run All" or just hit cmd+enter a few times
 
