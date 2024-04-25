@@ -12,7 +12,7 @@ Llamaestro is built on top of Maestro. It provides users the following benefits:
 
 1. Cheaper 🤑 - Maestro was uh... pricey (Opus is a baller 💸; LLama3 is a penny pincher)
 2. Easier to run 🏃‍♂️ - don't have to manage packages
-3. Faster 🚀 - Llameastro utilizes Groq API and is so fast I had to build in a sleep timer to prevent hitting rate limits.
+3. Faster 🚀 - Llamaestro utilizes Groq API and is so fast I had to build in a sleep timer to prevent hitting rate limits.
 4. User-friendlier 🙈 - You don't have to look at code
 
 <br></br>
